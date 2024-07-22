@@ -552,4 +552,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# 내 이미지 디렉토리 전체를 ignore
+image/
+
 # End of https://www.toptal.com/developers/gitignore/api/python,vs,windows
